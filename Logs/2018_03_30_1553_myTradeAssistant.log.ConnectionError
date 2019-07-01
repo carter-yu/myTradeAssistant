@@ -1,0 +1,354 @@
+[Mar 30, 2018 (Fri) 15:53.47] ==================================== Weekend Mode V1.0 [4]====================================
+[Mar 30, 2018 (Fri) 15:53.47] >>> Dow Jones Check: runDowJones = Y
+[Mar 30, 2018 (Fri) 15:53.49] Reuters: self.compRic = MMM.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:53.50] Reuters: self.compRic = AXP.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:53.51] Reuters: self.compRic = AAPL.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:53.53] Reuters: self.compRic = BA.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:53.54] Reuters: self.compRic = CAT.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:53.56] Reuters: self.compRic = CVX.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:53.57] Reuters: self.compRic = CSCO.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:53.59] Reuters: self.compRic = DWDP.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.00] Reuters: self.compRic = XOM.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.02] Reuters: self.compRic = GE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.03] Reuters: self.compRic = GS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.04] Reuters: self.compRic = HD.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.06] Reuters: self.compRic = INTC.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.07] Reuters: self.compRic = IBM.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.09] Reuters: self.compRic = JNJ.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.10] Reuters: self.compRic = JPM.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.12] Reuters: self.compRic = MCD.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.13] Reuters: self.compRic = MRK.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.14] Reuters: self.compRic = MSFT.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.16] Reuters: self.compRic = NKE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.17] Reuters: self.compRic = PFE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.18] Reuters: self.compRic = PG.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.19] Reuters: self.compRic = KO.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.21] Reuters: self.compRic = TRV.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.22] Reuters: self.compRic = UTX.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.23] Reuters: self.compRic = UNH.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.24] Reuters: self.compRic = VZ.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.25] Reuters: self.compRic = V.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.27] Reuters: self.compRic = WMT.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.28] Reuters: self.compRic = DIS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.28] Total Dow Jonesstocks inserted: 31
+[Mar 30, 2018 (Fri) 15:54.28] >>> S&P Check: runStandardAndPoor = Y
+[Mar 30, 2018 (Fri) 15:54.37] Reuters: self.compRic = MMM.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.38] Reuters: self.compRic = AOS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.39] Reuters: self.compRic = ABT.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.40] Reuters: self.compRic = ABBV.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.42] Reuters: self.compRic = ACN.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.43] Reuters: self.compRic = ATVI.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.44] Reuters: self.compRic = AYI.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.45] Reuters: self.compRic = ADNT.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.46] Reuters: self.compRic = ADBE.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.48] Reuters: self.compRic = AMD.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.49] Reuters: self.compRic = AAP.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.50] Reuters: self.compRic = AES.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.52] Reuters: self.compRic = AET.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.53] Reuters: self.compRic = AMG.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.54] Reuters: self.compRic = AFL.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.55] Reuters: self.compRic = A.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.56] Reuters: self.compRic = APD.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.58] Reuters: self.compRic = AKAM.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:54.59] Reuters: self.compRic = ALK.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.00] Reuters: self.compRic = ALB.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.02] Reuters: self.compRic = ARE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.03] Reuters: self.compRic = ALXN.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.04] Reuters: self.compRic = ALGN.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.05] Reuters: self.compRic = ALLE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.07] Reuters: self.compRic = AGN.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.08] Reuters: self.compRic = ADS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.09] Reuters: self.compRic = LNT.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.10] Reuters: self.compRic = ALL.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.11] Reuters: self.compRic = MO.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.13] Reuters: self.compRic = AMZN.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.14] Reuters: self.compRic = AEE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.15] Reuters: self.compRic = AAL.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.16] Reuters: self.compRic = AEP.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.17] Reuters: self.compRic = AXP.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.18] Reuters: self.compRic = AIG.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.20] Reuters: self.compRic = AMT.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.21] Reuters: self.compRic = AWK.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.22] Reuters: self.compRic = AMP.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.24] Reuters: self.compRic = ABC.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.25] Reuters: self.compRic = AME.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.26] Reuters: self.compRic = AMGN.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.27] Reuters: self.compRic = APH.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.29] Reuters: self.compRic = APC.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.30] Reuters: self.compRic = ADI.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.31] Reuters: self.compRic = ANDV.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.32] Reuters: self.compRic = ANSS.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.33] Reuters: self.compRic = ANTM.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.35] Reuters: self.compRic = AON.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.36] Reuters: self.compRic = APA.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.37] Reuters: self.compRic = AIV.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.38] Reuters: self.compRic = AAPL.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.40] Reuters: self.compRic = AMAT.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.41] Reuters: self.compRic = APTV.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.42] Reuters: self.compRic = ADM.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.43] Reuters: self.compRic = ARNC.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.44] Reuters: self.compRic = AJG.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.46] Reuters: self.compRic = AIZ.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.47] Reuters: self.compRic = T.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.48] Reuters: self.compRic = ADSK.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.49] Reuters: self.compRic = ADP.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.51] Reuters: self.compRic = AZO.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.52] Reuters: self.compRic = AVGO.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.53] Reuters: self.compRic = AVB.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.54] Reuters: self.compRic = AVY.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.56] Reuters: self.compRic = BHGE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.57] Reuters: self.compRic = BLL.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.58] Reuters: self.compRic = BAC.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:55.59] Reuters: self.compRic = BK.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.00] Reuters: self.compRic = BAX.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.02] Reuters: self.compRic = BBT.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.03] Reuters: self.compRic = BDX.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.04] Reuters: self.compRic = BRKb.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.05] Reuters: self.compRic = BBY.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.07] Reuters: self.compRic = BIIB.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.08] Reuters: self.compRic = BLK.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.09] Reuters: self.compRic = BA.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.10] Reuters: self.compRic = BKNG.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.11] Reuters: self.compRic = BWA.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.12] Reuters: self.compRic = BXP.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.13] Reuters: self.compRic = BSX.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.15] Reuters: self.compRic = BHF.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.16] Reuters: self.compRic = BMY.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.17] Reuters: self.compRic = BFb.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.18] Reuters: self.compRic = CA.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.19] Reuters: self.compRic = COG.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.21] Reuters: self.compRic = CDNS.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.22] Reuters: self.compRic = CPB.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.24] Reuters: self.compRic = COF.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.25] Reuters: self.compRic = CAH.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.26] Reuters: self.compRic = KMX.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.27] Reuters: self.compRic = CCL.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.28] Reuters: self.compRic = CAT.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.29] Reuters: self.compRic = CBOE.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.31] Reuters: self.compRic = CBRE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.32] Reuters: self.compRic = CBS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.33] Reuters: self.compRic = CELG.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.35] Reuters: self.compRic = CNC.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.36] Reuters: self.compRic = CNP.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.37] Reuters: self.compRic = CTL.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.39] Reuters: self.compRic = CERN.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.40] Reuters: self.compRic = CF.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.41] Reuters: self.compRic = CHRW.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.43] Reuters: self.compRic = SCHW.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.44] Reuters: self.compRic = CHTR.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.45] Reuters: self.compRic = CVX.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.46] Reuters: self.compRic = CMG.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.47] Reuters: self.compRic = CB.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.48] Reuters: self.compRic = CHD.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.50] Reuters: self.compRic = CI.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.51] Reuters: self.compRic = XEC.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.52] Reuters: self.compRic = CINF.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.53] Reuters: self.compRic = CTAS.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.54] Reuters: self.compRic = CSCO.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.55] Reuters: self.compRic = C.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.56] Reuters: self.compRic = CFG.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.58] Reuters: self.compRic = CTXS.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:56.59] Reuters: self.compRic = CME.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.00] Reuters: self.compRic = CMS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.01] Reuters: self.compRic = CTSH.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.03] Reuters: self.compRic = CL.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.04] Reuters: self.compRic = CMCSA.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.06] Reuters: self.compRic = CMA.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.07] Reuters: self.compRic = DXC.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.08] Reuters: self.compRic = CAG.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.09] Reuters: self.compRic = CXO.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.10] Reuters: self.compRic = COP.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.11] Reuters: self.compRic = ED.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.13] Reuters: self.compRic = STZ.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.14] Reuters: self.compRic = COO.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.15] Reuters: self.compRic = GLW.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.17] Reuters: self.compRic = COST.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.18] Reuters: self.compRic = COTY.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.19] Reuters: self.compRic = CCI.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.20] Reuters: self.compRic = CSRA.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.21] Reuters: self.compRic = CSX.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.22] Reuters: self.compRic = CMI.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.24] Reuters: self.compRic = CVS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.25] Reuters: self.compRic = DHR.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.26] Reuters: self.compRic = DRI.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.27] Reuters: self.compRic = DVA.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.29] Reuters: self.compRic = DE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.30] Reuters: self.compRic = DAL.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.31] Reuters: self.compRic = XRAY.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.32] Reuters: self.compRic = DVN.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.34] Reuters: self.compRic = DLR.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.35] Reuters: self.compRic = DFS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.36] Reuters: self.compRic = DISCA.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.37] Reuters: self.compRic = DISCK.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.38] Reuters: self.compRic = DISH.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.40] Reuters: self.compRic = FTV.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.41] Reuters: self.compRic = WRK.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.42] Reuters: self.compRic = SPGI.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.43] Reuters: self.compRic = DG.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.45] Reuters: self.compRic = DLTR.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.46] Reuters: self.compRic = D.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.47] Reuters: self.compRic = DOV.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.48] Reuters: self.compRic = DWDP.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.49] Reuters: self.compRic = DHI.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.50] Reuters: self.compRic = DPS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.52] Reuters: self.compRic = DTE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.53] Reuters: self.compRic = DUK.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.55] Reuters: self.compRic = DRE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.56] Reuters: self.compRic = ETFC.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.58] Reuters: self.compRic = EMN.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:57.59] Reuters: self.compRic = ETN.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.00] Reuters: self.compRic = EBAY.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.01] Reuters: self.compRic = ECL.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.02] Reuters: self.compRic = EIX.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.04] Reuters: self.compRic = EW.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.05] Reuters: self.compRic = EA.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.06] Reuters: self.compRic = LLY.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.07] Reuters: self.compRic = EMR.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.08] Reuters: self.compRic = ES.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.10] Reuters: self.compRic = ETR.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.11] Reuters: self.compRic = EVHC.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.12] Reuters: self.compRic = EOG.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.13] Reuters: self.compRic = EQT.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.14] Reuters: self.compRic = EFX.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.16] Reuters: self.compRic = EQIX.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.17] Reuters: self.compRic = EQR.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.18] Reuters: self.compRic = ESS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.19] Reuters: self.compRic = EL.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.20] Reuters: self.compRic = RE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.22] Reuters: self.compRic = EXC.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.23] Reuters: self.compRic = EXPE.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.24] Reuters: self.compRic = EXPD.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.25] Reuters: self.compRic = ESRX.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.26] Reuters: self.compRic = EXR.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.27] Reuters: self.compRic = XOM.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.29] Reuters: self.compRic = FFIV.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.30] Reuters: self.compRic = FB.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.31] Reuters: self.compRic = FAST.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.32] Reuters: self.compRic = FRT.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.34] Reuters: self.compRic = FDX.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.35] Reuters: self.compRic = FIS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.36] Reuters: self.compRic = FITB.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.37] Reuters: self.compRic = FE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.38] Reuters: self.compRic = FISV.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.40] Reuters: self.compRic = FLIR.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.41] Reuters: self.compRic = FLS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.42] Reuters: self.compRic = FLR.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.43] Reuters: self.compRic = FMC.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.45] Reuters: self.compRic = FTI.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.46] Reuters: self.compRic = FL.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.47] Reuters: self.compRic = F.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.48] Reuters: self.compRic = FBHS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.50] Reuters: self.compRic = BEN.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.51] Reuters: self.compRic = FCX.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.52] Reuters: self.compRic = GPS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.53] Reuters: self.compRic = GRMN.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.54] Reuters: self.compRic = IT.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.56] Reuters: self.compRic = GD.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.58] Reuters: self.compRic = GE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:58.59] Reuters: self.compRic = GGP.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.00] Reuters: self.compRic = GIS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.01] Reuters: self.compRic = GM.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.03] Reuters: self.compRic = GPC.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.04] Reuters: self.compRic = GILD.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.05] Reuters: self.compRic = GPN.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.06] Reuters: self.compRic = GT.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.08] Reuters: self.compRic = GS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.09] Reuters: self.compRic = GOOG.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.10] Reuters: self.compRic = GOOGL.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.11] Reuters: self.compRic = HRB.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.13] Reuters: self.compRic = HAL.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.14] Reuters: self.compRic = HBI.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.15] Reuters: self.compRic = HOG.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.16] Reuters: self.compRic = HRS.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.17] Reuters: self.compRic = HAS.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.19] Reuters: self.compRic = HCA.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.20] Reuters: self.compRic = HCP.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.21] Reuters: self.compRic = HP.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.22] Reuters: self.compRic = HSIC.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.24] Reuters: self.compRic = HES.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.25] Reuters: self.compRic = HPQ.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.26] Reuters: self.compRic = HLT.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.27] Reuters: self.compRic = HOLX.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.28] Reuters: self.compRic = HD.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.30] Reuters: self.compRic = HON.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.31] Reuters: self.compRic = HRL.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.32] Reuters: self.compRic = HST.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.33] Reuters: self.compRic = HUM.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.34] Reuters: self.compRic = HBAN.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.36] Reuters: self.compRic = HII.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.37] Reuters: self.compRic = HPE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.38] Reuters: self.compRic = IDXX.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.39] Reuters: self.compRic = INFO.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.41] Reuters: self.compRic = ITW.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.42] Reuters: self.compRic = ILMN.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.43] Reuters: self.compRic = INCY.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.44] Reuters: self.compRic = IR.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.45] Reuters: self.compRic = INTC.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.47] Reuters: self.compRic = ICE.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.48] Reuters: self.compRic = IBM.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.49] Reuters: self.compRic = IFF.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.50] Reuters: self.compRic = IP.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.51] Reuters: self.compRic = IPG.N , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 15:59.52] Reuters: self.compRic = INTU.OQ , self.isSymbolValid = True
+[Mar 30, 2018 (Fri) 16:00.04] Unexpected error:<class 'requests.exceptions.ConnectionError'>
+[Mar 30, 2018 (Fri) 16:00.04] Traceback (most recent call last):
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\urllib3\connection.py", line 141, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Carter\Anaconda3\lib\socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 346, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 850, in _validate_conn
+    conn.connect()
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\urllib3\connection.py", line 284, in connect
+    conn = self._new_conn()
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\urllib3\connection.py", line 150, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0x000001F7E96367B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\requests\adapters.py", line 440, in send
+    timeout=timeout
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\urllib3\util\retry.py", line 388, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.reuters.com', port=443): Max retries exceeded with url: /finance/stocks/financial-highlights/ISRG.OQ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x000001F7E96367B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Carter\Interactive_Brokers\myTradeAssistant\myTradeAssistant.py", line 137, in <module>
+    reutersUsStockSourceOper.getFullSetData(stockRic, clsReutersMktIndexSourceOper.ReutersMktIndexSourceOper.STAND_AND_POOR_RIC)
+  File "C:\Users\Carter\Interactive_Brokers\myTradeAssistant\FundamentalBrain\clsReutersUsStockSourceOper.py", line 65, in getFullSetData
+    self.getCoreData(usStockRic)
+  File "C:\Users\Carter\Interactive_Brokers\myTradeAssistant\FundamentalBrain\clsReutersUsStockSourceOper.py", line 43, in getCoreData
+    self.reutersUsStockDataStructure.scrapeStockStaicAndDailyPrice()
+  File "C:\Users\Carter\Interactive_Brokers\myTradeAssistant\FundamentalBrain\clsReutersUsStockDataStructure.py", line 366, in scrapeStockStaicAndDailyPrice
+    self.loadDataFromWeb()
+  File "C:\Users\Carter\Interactive_Brokers\myTradeAssistant\FundamentalBrain\clsReutersUsStockDataStructure.py", line 336, in loadDataFromWeb
+    browser.open(self.reutersUrl)
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\mechanicalsoup\stateful_browser.py", line 133, in open
+    resp = self.get(url, *args, **kwargs)
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\mechanicalsoup\browser.py", line 114, in get
+    response = self.session.get(*args, **kwargs)
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\requests\sessions.py", line 521, in get
+    return self.request('GET', url, **kwargs)
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\requests\sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\requests\sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Carter\Anaconda3\lib\site-packages\requests\adapters.py", line 508, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.reuters.com', port=443): Max retries exceeded with url: /finance/stocks/financial-highlights/ISRG.OQ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x000001F7E96367B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))

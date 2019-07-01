@@ -1,0 +1,19 @@
+Reuters Indices Data
+https://www.reuters.com/finance/markets/indices
+
+https://www.reuters.com/finance/markets/index/.DJI
+
+https://seekingalpha.com/symbol/GS/key-data
+data:application/csv;charset=utf-8,%22%22%2C12%2F31%2F2013%2C12%2F31%2F2014%2C12%2F31%2F2014%2C12%2F31%2F2016%0D%0A%22%20Interest%20Income%22%2C9333%2C8604%2C7734%2C9034%0D%0A%22%20Total%20Interest%20Expense%22%2C6660%2C5524%2C5377%2C7019%0D%0A%22%20Net%20Interest%20Income%22%2C2673%2C3080%2C2357%2C2015%0D%0A%22%20Loan%20Loss%20Provision%22%2C-%2C-%2C-%2C-%0D%0A%22%20Net%20Interest%20Income%20after%20Provision%22%2C-%2C-%2C-%2C-%0D%0A%22%20Non-Interest%20Income%22%2C30195%2C30382%2C29298%2C27425%0D%0A%22%20Non-Interest%20Expense%22%2C19934%2C20083%2C18764%2C18740%0D%0A%22%20Operating%20Income%22%2C12934%2C13379%2C12891%2C10700%0D%0A%22%20Non-Operating%20Income%20(Expense)%22%2C-%2C-%2C-%2C-%0D%0A%22%20Unusual%20Expense%22%2C1197%2C1022%2C4113%2C396%0D%0A%22%20Pretax%20Income%22%2C11737%2C12357%2C8778%2C10304%0D%0A%22%20Income%20Taxes%22%2C3697%2C3880%2C2695%2C2906%0D%0A%22%20Equity%20in%20Affiliates%22%2C-%2C-%2C-%2C-%0D%0A%22%20Other%20After%20Tax%20Income%20(Expense)%22%2C-%2C-%2C-%2C-%0D%0A%22%20Consolidated%20Net%20Income%22%2C8040%2C8477%2C6083%2C7398%0D%0A%22%20Minority%20Interest%20Expense%22%2C-%2C-%2C-%2C-%0D%0A%22%20Net%20Income%22%2C8040%2C8477%2C6083%2C7398%0D%0A%22%20Net%20Income%20After%20Extraordinaries%22%2C8040%2C8477%2C6083%2C7398%0D%0A%22%20Preferred%20Dividends%22%2C314%2C400%2C515%2C311%0D%0A%22%20Net%20Income%20Available%20to%20Common%22%2C7726%2C8077%2C5568%2C7087%0D%0A%22%20EPS%20(Basic)%22%2C16.393%2C17.6008%2C12.4037%2C16.5817%0D%0A%22%20Basic%20Shares%20Outstanding%22%2C471.2987250655768%2C458.8995954729331%2C448.8983126002725%2C427.3988794876279%0D%0A%22%20EPS%20(Diluted)%22%2C15.46%2C17.07%2C12.14%2C16.29%0D%0A%22%20Diluted%20Shares%20Outstanding%22%2C499.74126778783955%2C473.1693028705331%2C458.6490939044481%2C435.0521792510743%0D%0A
+
+
+https://www.sec.gov/cgi-bin/browse-edgar?CIK=XPLR&owner=exclude&action=getcompany
+
+Total Potential stocks enriched:  387
+START:  2018-03-03 18:30:51.659728
+END:  2018-03-04 00:54:17.970851
+
+
+C:\Users\Carter\Anaconda3\python.exe C:\Users\Carter\Interactive_Brokers\_BaseLines\myTradeAssistant_runable\myTradeAssistant.py
+
+C:\Users\Carter\Anaconda3\python.exe C:\Users\Carter\Interactive_Brokers\myTradeAssistant\myTradeAssistant.py

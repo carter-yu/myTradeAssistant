@@ -1,0 +1,34 @@
+SELECT 
+   ##Static
+   ss.StockTicker, ss.ListedExchCode, ss.CompanyName
+ FROM 
+   mytradeassistantdb.tblStockStatic ss LEFT JOIN mytradeassistantdb.tblStockRevenue sr ON ss.StockTicker = sr.StockTicker
+   LEFT JOIN mytradeassistantdb.tblStockDailyValuation sv ON ss.StockTicker = sv.StockTicker
+   LEFT JOIN mytradeassistantdb.tblStockDailyManagementEffectiveness se ON ss.StockTicker = se.StockTicker
+   LEFT JOIN mytradeassistantdb.tblStockDailySharesHolding sh ON ss.StockTicker = sh.StockTicker
+   LEFT JOIN mytradeassistantdb.tblStockDailyPrice sp ON ss.StockTicker = sp.StockTicker
+   LEFT JOIN mytradeassistantdb.tblStockDailyFinanicalStrength sf ON ss.StockTicker = sf.StockTicker
+ WHERE 1=1
+   AND (sr.IsLatest = 'Y' or sr.IsLatest is null)
+   AND (sv.IsLatest = 'Y' or sv.IsLatest is null)
+   AND (se.IsLatest = 'Y' or se.IsLatest is null)
+   AND (sh.IsLatest = 'Y' or sh.IsLatest is null) ## Droping some rows with SH
+   AND (sh.Source = 'Reuters' or sh.Source is null) ## Droping some rows with SH
+   AND (sp.IsLatest = 'Y' or sp.IsLatest is null)
+   AND (sf.IsLatest = 'Y' or sf.IsLatest is null)
+## Stragetic filtering - Good Earning
+   #AND sr.M1QvsM2Q >= 0 AND sr.M2QvsM3Q >= 0 AND sr.M3QvsM4Q >= 0 AND sr.M4QvsM5Q >= 0 
+   #AND sr.M5QvsM6Q >= 0 AND sr.M6QvsM7Q >= 0 AND sr.M7QvsM8Q >= 0 
+   AND sr.EpsRegressGrowth > 0 
+   AND sr.M1QEps > 0 AND sr.M2QEps > 0 AND sr.M3QEps > 0 AND sr.M4QEps > 0 
+   AND sr.M5QEps > 0 AND sr.M7QEps > 0 AND sr.M8QEps > 0 
+## Stragetic filtering - Shares in good hands
+   #AND (sh.PercentageHeldByInstitutions > 90 or sh.PercentageHeldByInstitutions is null)
+   AND sh.NetSharesTradedByInstitutions > 0 
+   AND (sh.NetNumOfSharesTradedByInsidersIn3M >= 0 or sh.NetNumOfSharesTradedByInsidersIn3M is null)
+## Stragetic filtering - Good valuation
+   #AND sv.PE <> 0 AND ((sv.Pe/sv.IndustryPe) - 1) < 0 AND ((sv.Pe/sv.SectorPe) - 1) < 0 
+## Stragetic filtering - Technical 
+   #AND ((sp.Volume / sp.AvgVolume) - 1) > 0
+   ; 
+   
